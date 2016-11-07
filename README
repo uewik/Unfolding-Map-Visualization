@@ -23,5 +23,5 @@ Troubleshooting:
 1. Switch Java Compiler to 1.6 if you get VM problems. (Processing should work with Java 1.6, and 1.7).
 2. If you run EarthquakeCityMap.java and get error: 
   403 for URL: http://mt1.google.com/vt/lyrs=m@116&hl=de&x=1&y=2&z=2&s=Galileo 
-please change code to switch to offline mode. It seems like the map server from Google (mt1.google.com) isn't available sometime.
+please change code to switch to offline mode or use other map providers(Microsoft etc). It seems as though Google is timing more quickly than it has in the past. 
 3. For user using computer with swithable graphics, you may encounter LoadLibrary failed with error 1114. To solve the issue, switch graphics global setting to "Maximize performance".
