@@ -1,5 +1,4 @@
-I worked on this project when I took the course of Object Oriented Programming in Java offered by UC San Diego. UC San Diego Intermediate
-Software Development MOOC team provided a skeleton to use Unfolding library API. 
+I worked on this project when I took the course of Object Oriented Programming in Java offered by UC San Diego. UC San Diego Intermediate Software Development MOOC team provided a skeleton to use Unfolding library API. 
 
 How to run:
 1. Run EarthquakeCityMap.java to visualize earthquakes on Google Map.
@@ -7,7 +6,7 @@ How to run:
 
 Troubleshooting:
 1. Switch Java Compiler to 1.6 if you get VM problems. (Processing should work with Java 1.6, and 1.7).
-2. If you run EarthquakeCityMap.java and get error: 403 for URL: http://mt1.google.com/vt/lyrs=m@116&hl=de&x=1&y=2&z=2&s=Galileo, please 
-change code to switch to offline mode. It seems like the map server from Google (mt1.google.com) isn't available sometime.
-3. For user using computer with swithable graphics, you may encounter LoadLibrary failed with error 1114. To solve the issue, switch 
-graphics global setting to "Maximize performance".
+2. If you run EarthquakeCityMap.java and get error: 
+  403 for URL: http://mt1.google.com/vt/lyrs=m@116&hl=de&x=1&y=2&z=2&s=Galileo 
+please change code to switch to offline mode. It seems like the map server from Google (mt1.google.com) isn't available sometime.
+3. For user using computer with swithable graphics, you may encounter LoadLibrary failed with error 1114. To solve the issue, switch graphics global setting to "Maximize performance".
