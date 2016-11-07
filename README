@@ -1,7 +1,6 @@
 I did this project when I took the course of Object Oriented Programming in Java offered by UC San Diego through Coursera. UC San Diego Intermediate Software Development MOOC team provided a skeleton to use Unfolding library API and some starter code. 
 
 Description:
-
 Earthquake visualization:
 - Used Processing API to implement GUI design
 - Used Unfolding library API to visualize earthquakes and cities on Google Map
