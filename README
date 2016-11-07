@@ -1,16 +1,24 @@
 I did this project when I took the course of Object Oriented Programming in Java offered by UC San Diego through Coursera. UC San Diego Intermediate Software Development MOOC team provided a skeleton to use Unfolding library API and some starter code. 
 
 Description:
--	Used Processing API to implement GUI design
--	Used Unfolding library API to visualize earthquake data and cities on Google Map
+
+Earthquake visualization:
+- Used Processing API to implement GUI design
+-	Used Unfolding library API to visualize earthquakes and cities on Google Map
 -	Program gets worldwide earthquake data by parsing XML file of USGS Feed
 -	Information will be displayed when a user hovers over any marker on the map
--	When a user clicks an earthquake mark on the map, affected cities will be shown on the map. 
--	When a user clicks a city mark on the map, earthquakes that could affects this city will be shown on the map.
+-	When a user clicks an earthquake mark on the map, affected cities will be shown on the map
+-	When a user clicks a city mark on the map, earthquakes that could affects this city will be shown on the map
+
+Airline routes visualization:
+- Used Processing API to implement GUI design
+-	Used Unfolding library API to visualize airports on the map
+-	Airport information will be displayed when a user hovers over any marker on the map
+-	When a user clicks an airport mark on the map, destination airports and airline routes will be shown on the map
 
 How to run:
 1. Run EarthquakeCityMap.java to visualize earthquakes on Google Map.
-2. Run AirportMarker.java to visualize airlines on Google Map.
+2. Run AirportMap.java to visualize airlines on Google Map.
 
 Troubleshooting:
 1. Switch Java Compiler to 1.6 if you get VM problems. (Processing should work with Java 1.6, and 1.7).
