@@ -4,17 +4,17 @@ Description:
 
 Earthquake visualization:
 - Used Processing API to implement GUI design
--	Used Unfolding library API to visualize earthquakes and cities on Google Map
--	Program gets worldwide earthquake data by parsing XML file of USGS Feed
--	Information will be displayed when a user hovers over any marker on the map
--	When a user clicks an earthquake mark on the map, affected cities will be shown on the map
--	When a user clicks a city mark on the map, earthquakes that could affects this city will be shown on the map
+- Used Unfolding library API to visualize earthquakes and cities on Google Map
+- Program gets worldwide earthquake data by parsing XML file of USGS Feed
+- Information will be displayed when a user hovers over any marker on the map
+- When a user clicks an earthquake mark on the map, affected cities will be shown on the map
+- When a user clicks a city mark on the map, earthquakes that could affects this city will be shown on the map
 
 Airline routes visualization:
 - Used Processing API to implement GUI design
--	Used Unfolding library API to visualize airports on the map
--	Airport information will be displayed when a user hovers over any marker on the map
--	When a user clicks an airport mark on the map, destination airports and airline routes will be shown on the map
+- Used Unfolding library API to visualize airports on the map
+- Airport information will be displayed when a user hovers over any marker on the map
+- When a user clicks an airport mark on the map, destination airports and airline routes will be shown on the map
 
 How to run:
 1. Run EarthquakeCityMap.java to visualize earthquakes on Google Map.
